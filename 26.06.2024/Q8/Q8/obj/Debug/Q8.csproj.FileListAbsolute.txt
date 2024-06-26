@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\-CSharp_tasks\26.06.2024\Q8\Q8\bin\Debug\Q8.exe.config
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\-CSharp_tasks\26.06.2024\Q8\Q8\bin\Debug\Q8.exe
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\-CSharp_tasks\26.06.2024\Q8\Q8\bin\Debug\Q8.pdb
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\-CSharp_tasks\26.06.2024\Q8\Q8\obj\Debug\Q8.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\-CSharp_tasks\26.06.2024\Q8\Q8\obj\Debug\Q8.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\-CSharp_tasks\26.06.2024\Q8\Q8\obj\Debug\Q8.exe
+C:\Users\Orange\Desktop\C#\-CSharp_tasks\-CSharp_tasks\26.06.2024\Q8\Q8\obj\Debug\Q8.pdb
