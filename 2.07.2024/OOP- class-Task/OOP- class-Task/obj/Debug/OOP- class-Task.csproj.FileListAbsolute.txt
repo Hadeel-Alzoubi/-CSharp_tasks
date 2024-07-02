@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\-CSharp_tasks\2.07.2024\OOP- class-Task\OOP- class-Task\bin\Debug\OOP- class-Task.exe.config
+C:\Users\Orange\Desktop\-CSharp_tasks\2.07.2024\OOP- class-Task\OOP- class-Task\bin\Debug\OOP- class-Task.exe
+C:\Users\Orange\Desktop\-CSharp_tasks\2.07.2024\OOP- class-Task\OOP- class-Task\bin\Debug\OOP- class-Task.pdb
+C:\Users\Orange\Desktop\-CSharp_tasks\2.07.2024\OOP- class-Task\OOP- class-Task\obj\Debug\OOP- class-Task.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\-CSharp_tasks\2.07.2024\OOP- class-Task\OOP- class-Task\obj\Debug\OOP- class-Task.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\-CSharp_tasks\2.07.2024\OOP- class-Task\OOP- class-Task\obj\Debug\OOP- class-Task.exe
+C:\Users\Orange\Desktop\-CSharp_tasks\2.07.2024\OOP- class-Task\OOP- class-Task\obj\Debug\OOP- class-Task.pdb
